@@ -4,9 +4,9 @@ import { Section } from "./Section";
 
 const stats = [
   { icon: GraduationCap, label: "B.Tech Student", value: "SRM AP" },
-  { icon: Code2, label: "Projects Built", value: "10+" },
+  { icon: Code2, label: "Projects Built", value: "8+" },
   { icon: Sparkles, label: "Hackathons Won", value: "2" },
-  { icon: Rocket, label: "Years Coding", value: "3+" },
+  { icon: Rocket, label: "Years Coding", value: "2+" },
 ];
 
 export function About() {
