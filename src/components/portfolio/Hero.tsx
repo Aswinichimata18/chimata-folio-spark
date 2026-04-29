@@ -131,7 +131,8 @@ export function Hero() {
             </div>
             <div className="absolute -bottom-4 -left-4 glass rounded-2xl p-4 shadow-elegant hidden md:block">
               <div className="text-2xl font-bold text-gradient">​</div>
-              <div className="text-xs text-muted-foreground">CGPA</div>
+              <div className="text-xs text-muted-foreground">
+</div>
             </div>
             <div className="absolute -top-4 -right-4 glass rounded-2xl p-4 shadow-elegant hidden md:block">
               <div className="text-2xl font-bold text-gradient">
