@@ -33,8 +33,8 @@ export function GitHubSection() {
           <div className="text-2xl font-bold text-gradient mt-1">View Profile</div>
           <div className="grid grid-cols-3 gap-2 mt-6">
             {[
-              { l: "Repos", v: "15+" },
-              { l: "Stars", v: "20+" },
+              { l: "Repos", v: "10+" },
+              { l: "Stars", v: "9+" },
               { l: "Streak", v: "🔥" },
             ].map((s) => (
               <div key={s.l} className="text-center p-2 rounded-xl bg-secondary/60">
