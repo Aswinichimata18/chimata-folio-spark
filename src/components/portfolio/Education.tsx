@@ -7,7 +7,7 @@ const items = [
     school: "SRM University AP",
     degree: "B.Tech in Computer Science",
     period: "2023 — 2027",
-    detail: "CGPA: 7.77 · Active in hackathons & technical clubs.",
+    detail: "Active in hackathons & technical clubs.",
   },
 ];
 
